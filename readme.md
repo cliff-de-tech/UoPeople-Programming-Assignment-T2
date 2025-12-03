@@ -56,6 +56,6 @@ For detailed documentation, see [Unit 1/README.md](./Unit%201/README.md).
 
 ## Author
 
-**Student Name**: Lois Adu Yeboah  
+**Student Name**: Clifford Opoku-Sarkodie 
 **Course**: UoPeople Programming Course  
 **Term**: Term 2
